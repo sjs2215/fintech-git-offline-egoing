@@ -1,4 +1,4 @@
 1
 2
 push push 햇당 원격 트랙 브랜치는?????
-work right 5
+work right5 + left 5
